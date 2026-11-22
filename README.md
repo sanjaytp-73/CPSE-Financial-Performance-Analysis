@@ -4,7 +4,7 @@ I analysed how India's Central Public Sector Enterprises (CPSEs) performed on pr
 
 ![Executive Overview](PowerBI/Dashboard_Screenshots/Snapshot_of_Executive_Overview.png)
 
-## Contents
+## Table of Contents
 
 - [About this project](#about-this-project)
 - [Business problem](#business-problem)
