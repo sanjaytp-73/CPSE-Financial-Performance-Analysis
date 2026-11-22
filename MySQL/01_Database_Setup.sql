@@ -1,0 +1,3 @@
+CREATE DATABASE cpse_financial_analysis;
+
+USE cpse_financial_analysis;
