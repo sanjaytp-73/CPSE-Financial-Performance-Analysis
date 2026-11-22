@@ -174,3 +174,4 @@ I'm Sanjay, a B.Com graduate and aspiring Data Analyst. This is my first portfol
 - GitHub: [sanjaytp-73](https://github.com/sanjaytp-73)
 - LinkedIn: [Sanjay T P](https://www.linkedin.com/in/sanjay-t-p-5ba257425)
 - Portfolio: [sanjaytp-73.github.io](https://sanjaytp-73.github.io)
+- Email: sanjaytp73@gmail.com
