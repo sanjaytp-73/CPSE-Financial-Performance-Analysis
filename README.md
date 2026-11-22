@@ -1,6 +1,6 @@
 # Government CPSE Financial Performance Analysis (FY 2022–23 to FY 2024–25)
 
-I analysed how India's Central Public Sector Enterprises (CPSEs) performed on profit, turnover and borrowings, using Excel, MySQL, Power BI, DAX and Figma.
+I analysed how India's Central Public Sector Enterprises (CPSEs) performed on profit, turnover and borrowings, using Excel, MySQL, Power BI and DAX.
 
 ![Executive Overview](PowerBI/Dashboard_Screenshots/Snapshot_of_Executive_Overview.png)
 
